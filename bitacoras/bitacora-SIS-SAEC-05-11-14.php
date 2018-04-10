@@ -1,0 +1,17 @@
+05-11-14 11:34:46: Pedro Romero Malvaez inicio sesion en el sistema.
+05-11-14 12:03:10: Pedro Romero Malvaez cerro sesion en el sistema.
+05-11-14 12:03:17: Laura Lopez Perez inicio sesion en el sistema.
+05-11-14 12:03:21: Laura Lopez Perez cerro sesion en el sistema.
+05-11-14 12:08:06: Pedro Romero Malvaez inicio sesion en el sistema.
+05-11-14 12:10:13: Pedro Romero Malvaez cerro sesion en el sistema.
+05-11-14 12:10:18: Laura Lopez Perez inicio sesion en el sistema.
+05-11-14 12:11:58: Laura Lopez Perez cerro sesion en el sistema.
+05-11-14 12:12:01: Pedro Romero Malvaez inicio sesion en el sistema.
+05-11-14 01:07:17: Pedro Romero Malvaez realizo una entrada de material.
+05-11-14 01:07:29: Pedro Romero Malvaez realizo una solicitud de material.
+05-11-14 01:09:58: Pedro Romero Malvaez cerro sesion en el sistema.
+05-11-14 01:10:02: Laura Lopez Perez inicio sesion en el sistema.
+05-11-14 01:10:06: Laura Lopez Perez cerro sesion en el sistema.
+05-11-14 01:10:09: Pedro Romero Malvaez inicio sesion en el sistema.
+05-11-14 01:25:59: Pedro Romero Malvaez autorizo una solicitud de material.
+05-11-14 01:32:44: Pedro Romero Malvaez realizo una solicitud de material.

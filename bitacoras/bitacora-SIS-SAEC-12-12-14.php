@@ -1,0 +1,17 @@
+12-12-14 05:31:18: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:31:40: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:34:07: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:34:40: Javier Lopez Perez inicio sesion en el sistema.
+12-12-14 05:35:31: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:35:55: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:37:24: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:38:17: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:38:28: Pedro Romero Malvaez cerro sesion en el sistema.
+12-12-14 05:38:31: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:38:52: Javier Lopez Perez inicio sesion en el sistema.
+12-12-14 05:39:33: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:39:43: Pedro Romero Malvaez inicio sesion en el sistema.
+12-12-14 05:39:46: Pedro Romero Malvaez cerro sesion en el sistema.
+12-12-14 05:39:57: Javier Lopez Perez inicio sesion en el sistema.
+12-12-14 05:40:08: Javier Lopez Perez cerro sesion en el sistema.
+12-12-14 05:40:13: Pedro Romero Malvaez inicio sesion en el sistema.

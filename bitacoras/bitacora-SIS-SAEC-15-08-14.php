@@ -1,0 +1,26 @@
+<?php "15-08-14 08:50:35: Pedro Romero Malvaez ingreso al sistema. <br />"; ?>
+<?php "15-08-14 10:20:55: Pedro Romero Malvaez agrego una administracion. <br />"; ?>
+<?php "15-08-14 10:21:31: Pedro Romero Malvaez agrego una administracion. <br />"; ?>
+<?php "15-08-14 10:28:09: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "15-08-14 10:28:16: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "15-08-14 10:30:29: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "15-08-14 10:31:27: Pedro Romero Malvaez agrego un puesto. <br />"; ?>
+<?php "15-08-14 10:33:31: Pedro Romero Malvaez agrego un Concepto. <br />"; ?>
+<?php "15-08-14 10:33:42: Pedro Romero Malvaez agrego un Concepto. <br />"; ?>
+<?php "15-08-14 10:33:48: Pedro Romero Malvaez actualizo un Concepto. <br />"; ?>
+<?php "15-08-14 10:35:03: Pedro Romero Malvaez agrego un paciente. <br />"; ?>
+<?php "15-08-14 10:35:26: Pedro Romero Malvaez agrego una materia. <br />"; ?>
+<?php "15-08-14 10:36:02: Pedro Romero Malvaez agrego un Descuento. <br />"; ?>
+<?php "15-08-14 12:35:35: Pedro Romero Malvaez agrego un Cobro. <br />"; ?>
+<?php "15-08-14 12:36:19: Pedro Romero Malvaez agrego un Cobro. <br />"; ?>
+<?php "15-08-14 01:40:02: Pedro Romero Malvaez agrego un usuario. <br />"; ?>
+<?php "15-08-14 02:44:43: Pedro Romero Malvaez agrego un proveedor. <br />"; ?>
+<?php "15-08-14 02:45:14: Pedro Romero Malvaez agrego un material. <br />"; ?>
+<?php "15-08-14 02:46:13: Pedro Romero Malvaez agrego un material. <br />"; ?>
+<?php "15-08-14 02:46:24: Pedro Romero Malvaez agrego un impuesto. <br />"; ?>
+<?php "15-08-14 02:46:48: Pedro Romero Malvaez realizo una entrada de material. <br />"; ?>
+<?php "15-08-14 02:49:29: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "15-08-14 02:49:35: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "15-08-14 02:49:43: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "15-08-14 02:50:12: Pedro Romero Malvaez agrego un departamento. <br />"; ?>
+<?php "15-08-14 05:53:08: Pedro Romero Malvaez salio del sistema. <br />"; ?>

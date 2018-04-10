@@ -1,0 +1,44 @@
+10-09-14 04:51:42: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 05:08:27: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 05:08:30: Salvador Lopez Perez inicio sesion en el sistema.
+10-09-14 05:26:42: Salvador Lopez Perez cerro sesion en el sistema.
+10-09-14 05:26:45: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 05:27:53: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 05:27:57: Maria Lopez Perez inicio sesion en el sistema.
+10-09-14 05:36:43: Maria Lopez Perez cerro sesion en el sistema.
+10-09-14 05:56:26: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 06:15:16: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 06:15:20: Salvador Lopez Perez inicio sesion en el sistema.
+10-09-14 06:16:20: Salvador Lopez Perez cerro sesion en el sistema.
+10-09-14 06:16:23: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 06:21:26: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 06:21:29: Salvador Lopez Perez inicio sesion en el sistema.
+10-09-14 06:23:01: Salvador Lopez Perez cerro sesion en el sistema.
+10-09-14 06:23:04: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 06:23:36: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 06:23:40: Heron Lopez Perez inicio sesion en el sistema.
+10-09-14 10:23:52: Heron Lopez Perez realizo el llenado de formato de indice preventivo de operatoria.
+10-09-14 06:23:58: Heron Lopez Perez cerro sesion en el sistema.
+10-09-14 06:24:01: Salvador Lopez Perez inicio sesion en el sistema.
+10-09-14 10:25:04: Salvador Lopez Perez aprobo un formato de indice preventivo de operatoria.
+10-09-14 06:26:50: Salvador Lopez Perez cerro sesion en el sistema.
+10-09-14 06:26:53: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 07:05:41: Pedro Romero Malvaez realizo un cobro en caja.
+10-09-14 07:17:32: Pedro Romero Malvaez dio de alta a un usuario.
+10-09-14 07:18:02: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 07:18:05: Antonia Lopez Perez inicio sesion en el sistema.
+10-09-14 07:18:25: Antonia Lopez Perez realizo un cobro en caja.
+10-09-14 07:21:29: Antonia Lopez Perez cerro sesion en el sistema.
+10-09-14 07:21:31: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 07:21:41: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 07:21:45: Antonia Lopez Perez inicio sesion en el sistema.
+10-09-14 07:23:57: Antonia Lopez Perez cerro sesion en el sistema.
+10-09-14 07:24:00: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 07:24:50: Pedro Romero Malvaez cerro sesion en el sistema.
+10-09-14 07:24:56: Juan Lopez Perez inicio sesion en el sistema.
+10-09-14 07:27:08: Juan Lopez Perez cerro sesion en el sistema.
+10-09-14 07:27:13: Antonia Lopez Perez inicio sesion en el sistema.
+10-09-14 07:42:38: Antonia Lopez Perez cerro sesion en el sistema.
+10-09-14 07:42:41: Pedro Romero Malvaez inicio sesion en el sistema.
+10-09-14 09:12:23: Pedro Romero Malvaez realizo un cobro en caja.
+10-09-14 09:24:53: Pedro Romero Malvaez realizo un cobro en caja.

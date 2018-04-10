@@ -1,0 +1,29 @@
+12-11-14 09:50:23: Pedro Romero Malvaez cerro sesion en el sistema.
+12-11-14 09:50:28: Emmanuel Lopez Perez inicio sesion en el sistema.
+12-11-14 09:50:43: Emmanuel Lopez Perez realizo una solicitud de material.
+12-11-14 09:50:51: Emmanuel Lopez Perez cerro sesion en el sistema.
+12-11-14 09:50:54: Pedro Romero Malvaez inicio sesion en el sistema.
+12-11-14 09:57:28: Pedro Romero Malvaez autorizo una solicitud de material.
+12-11-14 10:12:23: Pedro Romero Malvaez realizo una solicitud de material.
+12-11-14 10:12:30: Pedro Romero Malvaez autorizo una solicitud de material.
+12-11-14 10:54:05: Pedro Romero Malvaez cerro sesion en el sistema.
+12-11-14 10:54:35: Pedro Romero Malvaez inicio sesion en el sistema.
+12-11-14 10:54:58: Pedro Romero Malvaez asigno una comunidad.
+12-11-14 10:55:02: Pedro Romero Malvaez cerro sesion en el sistema.
+12-11-14 10:55:07: Manuel Lopez Perez inicio sesion en el sistema.
+12-11-14 10:55:17: Manuel Lopez Perez cerro sesion en el sistema.
+12-11-14 10:55:20: Pedro Romero Malvaez inicio sesion en el sistema.
+12-11-14 10:55:32: Pedro Romero Malvaez actualizo una comunidad.
+12-11-14 10:55:33: Pedro Romero Malvaez cerro sesion en el sistema.
+12-11-14 10:55:37: Manuel Lopez Perez inicio sesion en el sistema.
+12-11-14 10:55:46: Manuel Lopez Perez realizo una solicitud de material.
+12-11-14 10:55:49: Manuel Lopez Perez cerro sesion en el sistema.
+12-11-14 10:55:52: Pedro Romero Malvaez inicio sesion en el sistema.
+12-11-14 12:05:48: Pedro Romero Malvaez cerro sesion en el sistema.
+12-11-14 12:05:51: Emmanuel Lopez Perez inicio sesion en el sistema.
+12-11-14 12:06:01: Emmanuel Lopez Perez realizo una solicitud de material.
+12-11-14 12:06:08: Emmanuel Lopez Perez cerro sesion en el sistema.
+12-11-14 12:06:12: Pedro Romero Malvaez inicio sesion en el sistema.
+12-11-14 12:54:10: Pedro Romero Malvaez cerro sesion en el sistema.
+12-11-14 12:54:13: Javier Lopez Perez inicio sesion en el sistema.
+12-11-14 12:56:09: Javier Lopez Perez cerro sesion en el sistema.

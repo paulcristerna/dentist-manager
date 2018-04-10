@@ -1,0 +1,853 @@
+#contenedor-dental {
+	margin: 0 auto;
+	/*border: 1px solid #000;*/
+	/*background: red;*/
+	/*background: url('img/dentadura-blanca.png') no-repeat;*/
+	height: 430px;
+	width: 731px;
+}
+
+.izquierda, .derecha {
+	float: left;
+	margin: 0;
+	height: 430px;
+}
+
+.derecha {
+	margin-left: 20px;
+}
+
+.dientes {
+	background: red;
+	background: url('../img/dentadura-sprite.png') no-repeat;
+	margin: 0;
+	position: relative;	
+	/*border: 1px solid #000;*/
+	cursor: pointer;
+}
+
+/** DIENTES BLANCOS **/
+
+.diente-izq-1 {			
+	background-position: 0 0;
+	height: 62px;	
+	top: 12px;
+	left: 257px;
+	width: 82px;
+}
+
+.diente-izq-2 {			
+	background-position: 0 -62px;
+	height: 61px;	
+	top: -42px;
+	left: 177px;
+	width: 81px;
+}		
+
+.diente-izq-3 {			
+	background-position: 0 -123px;
+	height: 48px;	
+	top: -80px;
+	left: 117px;
+	width: 62px;
+}
+
+.diente-izq-4 {			
+	background-position: 0 -171px;
+	height: 48px;	
+	top: -105px;
+	left: 72px;
+	width: 49px;
+}
+
+.diente-izq-5 {			
+	background-position: 0 -219px;
+	height: 49px;	
+	top: -129px;
+	left: 34px;
+	width: 49px;
+}
+
+.diente-izq-6 {			
+	background-position: 0 -268px;
+	height: 39px;	
+	top: -139px;
+	left: 11px;
+	width: 40px;
+}
+
+.diente-izq-7 {			
+	background-position: 0 -307px;
+	height: 36px;	
+	top: -138px;
+	left: 0;
+	width: 40px;
+}
+
+.diente-izq-8 {			
+	background-position: 0 -343px;
+	height: 37px;	
+	top: -137px;
+	left: 0;
+	width: 40px;
+}	
+
+.diente-izq-9 {			
+	background-position: 0 -380px;
+	height: 39px;	
+	top: -136px;
+	left: 11px;
+	width: 40px;
+}	
+
+.diente-izq-10 {			
+	background-position: 0 -419px;
+	height: 48px;	
+	top: -148px;
+	left: 34px;
+	width: 49px;
+}
+
+.diente-izq-11 {			
+	background-position: 0 -467px;
+	height: 49px;	
+	top: -171px;
+	left: 71px;
+	width: 50px;
+}
+
+.diente-izq-12 {			
+	background-position: 0 -516px;
+	height: 48px;	
+	top: -196px;
+	left: 118px;
+	width: 62px;
+}
+
+.diente-izq-13 {			
+	background-position: 0 -563px;
+	height: 61px;	
+	top: -235px;
+	left: 177px;
+	width: 81px;
+}
+
+.diente-izq-14 {			
+	background-position: 0 -625px;
+	height: 62px;	
+	top: -290px;
+	left: 257px;
+	width: 82px;
+}
+
+/** DERECHA **/
+
+.diente-der-1 {			
+	background-position: -515px 0;
+	height: 61px;	
+	top: -1px;
+	left: 275px;
+	width: 78px;
+}
+
+.diente-der-2 {			
+	background-position: -515px -62px;
+	height: 61px;	
+	top: -50px;
+	left: 353px;
+	width: 76px;
+}
+
+.diente-der-3 {			
+	background-position: -514px -125px;
+	height: 62px;	
+	top: -94px;
+	left: 425px;
+	width: 52px;
+}
+
+.diente-der-4 {			
+	background-position: -514px -187px;
+	height: 60px;	
+	top: -141px;
+	left: 473px;
+	width: 51px;
+}
+
+.diente-der-5 {			
+	background-position: -513px -251px;
+	height: 53px;	
+	top: -173px;
+	left: 518px;
+	width: 55px;
+}
+
+.diente-der-6 {			
+	background-position: -514px -309px;
+	height: 48px;	
+	top: -191px;
+	left: 559px;
+	width: 48px;
+}
+
+.diente-der-7 {			
+	background-position: -513px -358px;
+	height: 60px;	
+	top: -194px;
+	left: 573px;
+	width: 54px;
+}
+
+.diente-der-8 {			
+	background-position: -513px -421px;
+	height: 61px;	
+	top: -194px;
+	left: 573px;
+	width: 54px;
+}
+
+.diente-der-9 {			
+	background-position: -514px -484px;
+	height: 48px;	
+	top: -196px;
+	left: 559px;
+	width: 48px;
+}
+
+.diente-der-10 {			
+	background-position: -513px -537px;
+	height: 53px;	
+	top: -214px;
+	left: 518px;
+	width: 55px;
+}
+
+.diente-der-11 {			
+	background-position: -514px -592px;
+	height: 60px;	
+	top: -248px;
+	left: 473px;
+	width: 51px;
+}
+
+.diente-der-12 {			
+	background-position: -513px -654px;
+	height: 62px;	
+	top: -293px;
+	left: 423px;
+	width: 52px;
+}
+
+.diente-der-13 {			
+	background-position: -515px -719px;
+	height: 60px;	
+	top: -337px;
+	left: 350px;
+	width: 75px;
+}
+
+.diente-der-14 {			
+	background-position: -515px -780px;
+	height: 61px;	
+	top: -385px;
+	left: 273px;
+	width: 78px;
+}
+
+/** DIENTES DE COLORES **/
+
+/** IZQUIERDA **/
+
+/** DIENTE 1 **/
+
+.diente-izq-1-azul {
+	background-position: -81px 0;
+}
+
+.diente-izq-1-amarillo {
+	background-position: -162px 0;
+}
+
+.diente-izq-1-verde {
+	background-position: -243px 0;
+}
+
+.diente-izq-1-negro {
+	background-position: -325px 0;
+}
+
+.diente-izq-1-rojo {
+	background-position: -406px 0;
+}
+
+/** DIENTE 2 **/
+
+.diente-izq-2-azul {
+	background-position: -81px -62px;
+}
+
+.diente-izq-2-amarillo {
+	background-position: -163px -62px;
+}
+
+.diente-izq-2-verde {
+	background-position: -244px -62px;
+}
+
+.diente-izq-2-negro {
+	background-position: -326px -62px;
+}
+
+.diente-izq-2-rojo {
+	background-position: -407px -62px;
+}
+
+/** DIENTE 3 **/
+.diente-izq-3-azul {
+	background-position: -64px -123px;
+}
+
+.diente-izq-3-amarillo {
+	background-position: -127px -123px;
+}
+
+.diente-izq-3-verde {
+	background-position: -191px -123px;
+}
+
+.diente-izq-3-negro {
+	background-position: -255px -123px;
+}
+
+.diente-izq-3-rojo {
+	background-position: -320px -123px;
+}
+
+/** DIENTE 4 **/
+.diente-izq-4-azul {
+	background-position: -51px -171px;
+}
+
+.diente-izq-4-amarillo {
+	background-position: -102px -171px;
+}
+
+.diente-izq-4-verde {
+	background-position: -153px -171px;
+}
+
+.diente-izq-4-negro {
+	background-position: -203px -171px;
+}
+
+.diente-izq-4-rojo {
+	background-position: -255px -171px;
+}
+
+/** DIENTE 5 **/
+.diente-izq-5-azul {
+	background-position: -48px -219px;
+}
+
+.diente-izq-5-amarillo {
+	background-position: -97px -219px;
+}
+
+.diente-izq-5-verde {
+	background-position: -145px -219px;
+}
+
+.diente-izq-5-negro {
+	background-position: -194px -219px;
+}
+
+.diente-izq-5-rojo {
+	background-position: -243px -219px;
+}
+
+/** DIENTE 6 **/
+.diente-izq-6-azul {
+	background-position: -40px -268px;
+}
+
+.diente-izq-6-amarillo {
+	background-position: -81px -268px;
+}
+
+.diente-izq-6-verde {
+	background-position: -121px -268px;
+}
+
+.diente-izq-6-negro {
+	background-position: -160px -268px;
+}
+
+.diente-izq-6-rojo {
+	background-position: -200px -268px;
+}
+
+/** DIENTE 7 **/
+.diente-izq-7-azul {
+	background-position: -40px -307px;
+}
+
+.diente-izq-7-amarillo {
+	background-position: -80px -307px;
+}
+
+.diente-izq-7-verde {
+	background-position: -120px -307px;
+}
+
+.diente-izq-7-negro {
+	background-position: -160px -307px;
+}
+
+.diente-izq-7-rojo {
+	background-position: -200px -307px;
+}
+
+/** DIENTE 8 **/
+.diente-izq-8-azul {
+	background-position: -40px -343px;
+}
+
+.diente-izq-8-amarillo {
+	background-position: -80px -343px;
+}
+
+.diente-izq-8-verde {
+	background-position: -120px -343px;
+}
+
+.diente-izq-8-negro {
+	background-position: -160px -343px;
+}
+
+.diente-izq-8-rojo {
+	background-position: -200px -343px;
+}
+
+/** DIENTE 9 **/
+.diente-izq-9-azul {
+	background-position: -40px -380px;
+}
+
+.diente-izq-9-amarillo {
+	background-position: -80px -380px;
+}
+
+.diente-izq-9-verde {
+	background-position: -120px -380px;
+}
+
+.diente-izq-9-negro {
+	background-position: -160px -380px;
+}
+
+.diente-izq-9-rojo {
+	background-position: -200px -380px;
+}
+
+/** DIENTE 10 **/
+.diente-izq-10-azul {
+	background-position: -48px -419px;
+}
+
+.diente-izq-10-amarillo {
+	background-position: -97px -419px;
+}
+
+.diente-izq-10-verde {
+	background-position: -145px -419px;
+}
+
+.diente-izq-10-negro {
+	background-position: -194px -419px;
+}
+
+.diente-izq-10-rojo {
+	background-position: -243px -419px;
+}
+
+/** DIENTE 11 **/
+.diente-izq-11-azul {
+	background-position: -50px -467px;
+}
+
+.diente-izq-11-amarillo {
+	background-position: -101px -467px;
+}
+
+.diente-izq-11-verde {
+	background-position: -152px -467px;
+}
+
+.diente-izq-11-negro {
+	background-position: -203px -467px;
+}
+
+.diente-izq-11-rojo {
+	background-position: -254px -467px;
+}
+
+/** DIENTE 12 **/
+.diente-izq-12-azul {
+	background-position: -64px -516px;
+}
+
+.diente-izq-12-amarillo {
+	background-position: -128px -516px;
+}
+
+.diente-izq-12-verde {
+	background-position: -192px -516px;
+}
+
+.diente-izq-12-negro {
+	background-position: -256px -516px;
+}
+
+.diente-izq-12-rojo {
+	background-position: -321px -516px;
+}
+
+/** DIENTE 13 **/
+.diente-izq-13-azul {
+	background-position: -81px -564px;
+}
+
+.diente-izq-13-amarillo {
+	background-position: -163px -564px;
+}
+
+.diente-izq-13-verde {
+	background-position: -244px -564px;
+}
+
+.diente-izq-13-negro {
+	background-position: -326px -564px;
+}
+
+.diente-izq-13-rojo {
+	background-position: -407px -564px;
+}
+
+/** DIENTE 14 **/
+.diente-izq-14-azul {
+	background-position: -81px -625px;
+}
+
+.diente-izq-14-amarillo {
+	background-position: -163px -625px;
+}
+
+.diente-izq-14-verde {
+	background-position: -244px -625px;
+}
+
+.diente-izq-14-negro {
+	background-position: -326px -625px;
+}
+
+.diente-izq-14-rojo {
+	background-position: -407px -625px;
+}
+
+/** DERECHA **/
+
+/** DIENTE 1 **/
+
+.diente-der-1-azul {
+	background-position: -595px 0;
+}
+
+.diente-der-1-amarillo {
+	background-position: -675px 0;
+}
+
+.diente-der-1-verde {
+	background-position: -755px 0;
+}
+
+.diente-der-1-negro {
+	background-position: -835px 0;
+}
+
+.diente-der-1-rojo {
+	background-position: -914px 0;
+}
+
+/** DIENTE 2 **/
+
+.diente-der-2-azul {
+	background-position: -593px -62px;
+}
+
+.diente-der-2-amarillo {
+	background-position: -671px -62px;
+}
+
+.diente-der-2-verde {
+	background-position: -748px -62px;
+}
+
+.diente-der-2-negro {
+	background-position: -827px -62px;
+}
+
+.diente-der-2-rojo {
+	background-position: -904px -62px;
+}
+
+/** DIENTE 3 **/
+.diente-der-3-azul {
+	background-position: -565px -125px;
+}
+
+.diente-der-3-amarillo {
+	background-position: -618px -125px;
+}
+
+.diente-der-3-verde {
+	background-position: -670px -125px;
+}
+
+.diente-der-3-negro {
+	background-position: -721px -125px;
+}
+
+.diente-der-3-rojo {
+	background-position: -773px -125px;
+}
+
+/** DIENTE 4 **/
+.diente-der-4-azul {
+	background-position: -565px -187px;
+}
+
+.diente-der-4-amarillo {
+	background-position: -617px -187px;
+}
+
+.diente-der-4-verde {
+	background-position: -669px -187px;
+}
+
+.diente-der-4-negro {
+	background-position: -721px -187px;
+}
+
+.diente-der-4-rojo {
+	background-position: -773px -187px;
+}
+
+/** DIENTE 5 **/
+.diente-der-5-azul {
+	background-position: -569px -251px;
+}
+
+.diente-der-5-amarillo {
+	background-position: -624px -251px;
+}
+
+.diente-der-5-verde {
+	background-position: -680px -251px;
+}
+
+.diente-der-5-negro {
+	background-position: -736px -251px;
+}
+
+.diente-der-5-rojo {
+	background-position: -791px -251px;
+}
+
+/** DIENTE 6 **/
+.diente-der-6-azul {
+	background-position: -563px -309px;
+}
+
+.diente-der-6-amarillo {
+	background-position: -613px -309px;
+}
+
+.diente-der-6-verde {
+	background-position: -663px -309px;
+}
+
+.diente-der-6-negro {
+	background-position: -712px -309px;
+}
+
+.diente-der-6-rojo {
+	background-position: -762px -309px;
+}
+
+/** DIENTE 7 **/
+.diente-der-7-azul {
+	background-position: -567px -358px;
+}
+
+.diente-der-7-amarillo {
+	background-position: -623px -358px;
+}
+
+.diente-der-7-verde {
+	background-position: -678px -358px;
+}
+
+.diente-der-7-negro {
+	background-position: -733px -358px;
+}
+
+.diente-der-7-rojo {
+	background-position: -790px -358px;
+}
+
+/** DIENTE 8 **/
+.diente-der-8-azul {
+	background-position: -567px -421px;
+}
+
+.diente-der-8-amarillo {
+	background-position: -623px -421px;
+}
+
+.diente-der-8-verde {
+	background-position: -678px -421px;
+}
+
+.diente-der-8-negro {
+	background-position: -733px -421px;
+}
+
+.diente-der-8-rojo {
+	background-position: -790px -421px;
+}
+
+/** DIENTE 9 **/
+.diente-der-9-azul {
+	background-position: -564px -484px;
+}
+
+.diente-der-9-amarillo {
+	background-position: -613px -484px;
+}
+
+.diente-der-9-verde {
+	background-position: -663px -484px;
+}
+
+.diente-der-9-negro {
+	background-position: -713px -484px;
+}
+
+.diente-der-9-rojo {
+	background-position: -763px -484px;
+}
+
+/** DIENTE 10 **/
+.diente-der-10-azul {
+	background-position: -569px -537px;
+}
+
+.diente-der-10-amarillo {
+	background-position: -624px -537px;
+}
+
+.diente-der-10-verde {
+	background-position: -680px -537px;
+}
+
+.diente-der-10-negro {
+	background-position: -736px -537px;
+}
+
+.diente-der-10-rojo {
+	background-position: -791px -537px;
+}
+
+/** DIENTE 11 **/
+.diente-der-11-azul {
+	background-position: -566px -592px;
+}
+
+.diente-der-11-amarillo {
+	background-position: -618px -592px;
+}
+
+.diente-der-11-verde {
+	background-position: -670px -592px;
+}
+
+.diente-der-11-negro {
+	background-position: -722px -592px;
+}
+
+.diente-der-11-rojo {
+	background-position: -774px -592px;
+}
+
+/** DIENTE 12 **/
+.diente-der-12-azul {
+	background-position: -565px -654px;
+}
+
+.diente-der-12-amarillo {
+	background-position: -617px -654px;
+}
+
+.diente-der-12-verde {
+	background-position: -669px -654px;
+}
+
+.diente-der-12-negro {
+	background-position: -721px -654px;
+}
+
+.diente-der-12-rojo {
+	background-position: -773px -654px;
+}
+
+/** DIENTE 13 **/
+.diente-der-13-azul {
+	background-position: -593px -719px;
+}
+
+.diente-der-13-amarillo {
+	background-position: -671px -719px;
+}
+
+.diente-der-13-verde {
+	background-position: -749px -719px;
+}
+
+.diente-der-13-negro {
+	background-position: -827px -719px;
+}
+
+.diente-der-13-rojo {
+	background-position: -905px -719px;
+}
+
+/** DIENTE 14 **/
+.diente-der-14-azul {
+	background-position: -595px -780px;
+}
+
+.diente-der-14-amarillo {
+	background-position: -675px -780px;
+}
+
+.diente-der-14-verde {
+	background-position: -755px -780px;
+}
+
+.diente-der-14-negro {
+	background-position: -835px -780px;
+}
+
+.diente-der-14-rojo {
+	background-position: -915px -780px;
+}

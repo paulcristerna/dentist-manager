@@ -1,0 +1,12 @@
+<?php "27-05-14 11:00:51: Pedro Romero Malvaez ingreso al sistema. <br />"; ?>
+<?php "27-05-14 01:32:04: Pedro Romero Malvaez agrego un paciente. <br />"; ?>
+<?php "27-05-14 01:32:40: Pedro Romero Malvaez agrego un paciente. <br />"; ?>
+<?php "27-05-14 01:37:37: Pedro Romero Malvaez ingreso al sistema. <br />"; ?>
+<?php "27-05-14 01:39:54: Pedro Romero Malvaez ingreso al sistema. <br />"; ?>
+<?php "27-05-14 01:42:07: Pedro Romero Malvaez agrego un usuario. <br />"; ?>
+<?php "27-05-14 01:42:14: Pedro Romero Malvaez agrego un usuario. <br />"; ?>
+<?php "27-05-14 01:42:31: Pedro Romero Malvaez agrego un usuario. <br />"; ?>
+<?php "27-05-14 02:12:10: Pedro Romero Malvaez actualizo un paciente. <br />"; ?>
+<?php "27-05-14 02:12:16: Pedro Romero Malvaez actualizo un paciente. <br />"; ?>
+<?php "27-05-14 02:12:23: Pedro Romero Malvaez actualizo un paciente. <br />"; ?>
+<?php "27-05-14 02:16:03: Pedro Romero Malvaez actualizo un paciente. <br />"; ?>

@@ -1,0 +1,14 @@
+20-11-14 08:48:39: Pedro Romero Malvaez inicio sesion en el sistema.
+20-11-14 09:40:50: Pedro Romero Malvaez realizo una entrada de material.
+20-11-14 10:00:21: Pedro Romero Malvaez realizo una solicitud de material.
+20-11-14 10:00:41: Pedro Romero Malvaez realizo una solicitud de material.
+20-11-14 10:09:28: Pedro Romero Malvaez autorizo una solicitud de material.
+20-11-14 10:09:53: Pedro Romero Malvaez entrego una salida de material.
+20-11-14 10:16:16: Pedro Romero Malvaez autorizo una solicitud de material.
+20-11-14 10:38:26: Pedro Romero Malvaez realizo una solicitud de material.
+20-11-14 10:40:50: Pedro Romero Malvaez autorizo una solicitud de material.
+20-11-14 10:55:21: Pedro Romero Malvaez entrego una salida de material.
+20-11-14 10:56:34: Pedro Romero Malvaez realizo una solicitud de material.
+20-11-14 10:56:40: Pedro Romero Malvaez autorizo una solicitud de material.
+20-11-14 10:57:01: Pedro Romero Malvaez entrego una salida de material.
+20-11-14 11:37:29: Pedro Romero Malvaez cerro sesion en el sistema.

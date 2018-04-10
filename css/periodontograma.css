@@ -1,0 +1,1334 @@
+/** ESTILO DEL PERIODONTOGRAMA **/
+
+#periodontograma {
+	background-image: url("../img/dientes-periodontograma-2.png");
+	background-repeat: none;	
+	margin: 0 auto;
+	height: 576px;
+	width: 825px;
+}
+
+#dientes-superiores-arriba, #dientes-superiores-abajo {
+	height: 134px;	
+	width: 825x;
+}
+
+#dientes-inferiores-arriba, #dientes-inferiores-abajo {
+	height: 115px;	
+	width: 825x;
+}
+
+#dientes-superiores-abajo {
+	margin-top: 7px;
+}
+
+#dientes-inferiores-arriba {
+	margin-top: 39px;
+}
+
+#dientes-inferiores-abajo {
+	margin-top: 24px;
+}
+
+.diente {	
+	position: relative;
+}
+
+.diente-1, .diente-16, .diente-17, .diente-32 {
+	height: 82px;	
+}
+
+.diente-2, .diente-15, .diente-18, .diente-31 {
+	height: 86px;
+}
+
+.diente-3, .diente-14, .diente-19, .diente-30 {
+	height: 92px;
+}
+
+.diente-4, .diente-13, .diente-20, .diente-29 {
+	height: 96px;
+}
+
+.diente-5, .diente-12, .diente-21, .diente-28 {
+	height: 97px;
+}
+
+.diente-6, .diente-11, .diente-22, .diente-27 {
+	height: 118px;
+}
+
+.diente-7, .diente-10, .diente-23, .diente-26 {
+	height: 107px;
+}
+
+.diente-8, .diente-9, .diente-24, .diente-25 {
+	height: 118px;
+}
+
+.diente-33, .diente-48, .diente-49, .diente-64 {
+	height: 71px;
+}
+
+.diente-34, .diente-47, .diente-50, .diente-63 {
+	height: 81px;
+}
+
+.diente-35, .diente-46, .diente-51, .diente-62 {
+	height: 86px;
+}
+
+.diente-36, .diente-45, .diente-52, .diente-61 {
+	height: 97px;
+}
+
+.diente-37, .diente-44, .diente-53, .diente-60 {
+	height: 99px;
+}
+
+.diente-38, .diente-43, .diente-54, .diente-59 {
+	height: 110px;
+}
+
+.diente-39, .diente-42, .diente-55, .diente-58 {
+	height: 107px;
+}
+
+.diente-40, .diente-41, .diente-56, .diente-57 {
+	height: 109px;
+}
+
+.diente-1, .diente-17 {
+	left: 14px;	
+	top: 45px;
+}
+
+.diente-2, .diente-18 {
+	left: 69px;
+	top: -42px;
+}
+
+.diente-3, .diente-19 {
+	left: 124px;
+	top: -133px;
+}
+
+.diente-4, .diente-20 {
+	left: 186px;
+	top: -230px;
+}
+
+.diente-5, .diente-21 {
+	left: 230px;
+	top: -326px;
+}
+
+.diente-6, .diente-22 {
+	left: 274px;
+	top: -443px;
+}
+
+.diente-7, .diente-23 {
+	left: 320px;
+	top: -546px;
+}
+
+.diente-8, .diente-24 {
+	left: 361px;
+	top: -663px;
+}
+
+.diente-9, .diente-25 {
+	left: 419px;
+	top: -885px;
+}
+
+.diente-10, .diente-26 {
+	left: 470px;
+	top: -993px;
+}
+
+.diente-11, .diente-27 {
+	left: 514px;
+	top: -1115px;
+}
+
+.diente-12, .diente-28 {
+	left: 559px;
+	top: -1213px;
+}
+
+.diente-13, .diente-29 {
+	left: 604px;
+	top: -1310px;
+}
+
+.diente-14, .diente-30 {
+	left: 648px;
+	top: -1401px;
+}
+
+.diente-15, .diente-31 {
+	left: 705px;
+	top: -1488px;
+}
+
+.diente-16, .diente-32 {
+	left: 763px;
+	top: -1569px;
+}
+
+
+.diente-33, .diente-49 {	
+	left: 51px;
+	top: 6px;	
+}
+
+.diente-34, .diente-50 {
+	left: 101px;
+	top: -65px;
+}
+
+.diente-35, .diente-51 {	
+	left: 155px;
+	top: -146px;
+}
+
+.diente-36, .diente-52 {	
+	left: 213px;
+	top: -232px;
+}
+
+.diente-37, .diente-53 {	
+	left: 258px;
+	top: -329px;
+}
+
+.diente-38, .diente-54 {	
+	left: 300px;
+	top: -429px;
+}
+
+.diente-39, .diente-55 {	
+	left: 337px;
+	top: -541px;
+}
+
+.diente-40, .diente-56 {	
+	left: 375px;
+	top: -650px;
+}
+
+.diente-41, .diente-57 {
+	left: 420px;
+	top: -855px;
+}
+
+.diente-42, .diente-58 {
+	left: 458px;
+	top: -962px;
+}
+
+.diente-43, .diente-59 {
+	left: 495px;
+	top: -1067px;
+}
+
+.diente-44, .diente-60 {
+	left: 532px;
+	top: -1177px;
+}
+
+.diente-45, .diente-61 {
+	left: 576px;
+	top: -1275px;
+}
+
+.diente-46, .diente-62 {
+	left: 620px;
+	top: -1373px;
+}
+
+.diente-47, .diente-63 {
+	left: 679px;
+	top: -1459px;
+}
+
+.diente-48, .diente-64 {
+	left: 730px;
+	top: -1540px;
+}
+
+.diente-1, .contenedor-lineas, .linea,
+.diente-16, .contenedor-lineas-16, .linea-16,
+.diente-17, .contenedor-lineas-17, .linea-17,
+.diente-32, .contenedor-lineas-32, .linea-32 {
+	width: 47px;
+}
+
+.diente-2, .contenedor-lineas-2, .linea-2,
+.diente-15, .contenedor-lineas-15, .linea-15,
+.diente-18, .contenedor-lineas-18, .linea-18,
+.diente-31, .contenedor-lineas-31, .linea-31 {
+	width: 50px;
+}
+
+.diente-3, .contenedor-lineas-3, .linea-3,
+.diente-14, .contenedor-lineas-14, .linea-14,
+.diente-19, .contenedor-lineas-19, .linea-19,
+.diente-30, .contenedor-lineas-30, .linea-30 {
+	width: 53px;
+}
+
+.diente-4, .contenedor-lineas-4, .linea-4,
+.diente-13, .contenedor-lineas-13, .linea-13,
+.diente-20, .contenedor-lineas-20, .linea-20,
+.diente-29, .contenedor-lineas-29, .linea-29 {
+	width: 35px;
+}
+
+.diente-5, .contenedor-lineas-5, .linea-5,
+.diente-12, .contenedor-lineas-12, .linea-12,
+.diente-21, .contenedor-lineas-21, .linea-21,
+.diente-28, .contenedor-lineas-28, .linea-28 {
+	width: 36px;
+}
+
+.diente-6, .contenedor-lineas-6, .linea-6,
+.diente-11, .contenedor-lineas-11, .linea-11,
+.diente-22, .contenedor-lineas-22, .linea-22,
+.diente-27, .contenedor-lineas-27, .linea-27 {
+	width: 38px;
+}
+
+.diente-7, .contenedor-lineas-7, .linea-7,
+.diente-10, .contenedor-lineas-10, .linea-10,
+.diente-23, .contenedor-lineas-23, .linea-23,
+.diente-26, .contenedor-lineas-26, .linea-26 {
+	width: 36px;
+}
+
+.diente-8, .contenedor-lineas-8, .linea-8,
+.diente-9, .contenedor-lineas-9, .linea-9,
+.diente-24, .contenedor-lineas-24, .linea-24, 
+.diente-25, .contenedor-lineas-25, .linea-25 {
+	width: 47px;
+}
+
+.diente-33, .contenedor-lineas-33, .linea-33,
+.diente-48, .contenedor-lineas-48, .linea-48,
+.diente-49, .contenedor-lineas-49, .linea-49,
+.diente-64, .contenedor-lineas-64, .linea-64 {
+	width: 46px;
+}
+
+.diente-34, .contenedor-lineas-34, .linea-34,
+.diente-47, .contenedor-lineas-47, .linea-47,
+.diente-50, .contenedor-lineas-50, .linea-50,
+.diente-63, .contenedor-lineas-63, .linea-63 {
+	width: 47px;
+}
+
+.diente-35, .contenedor-lineas-35, .linea-35, 
+.diente-46, .contenedor-lineas-46, .linea-46,
+.diente-51, .contenedor-lineas-51, .linea-51,
+.diente-62, .contenedor-lineas-62, .linea-62 {
+	width: 52px;
+}
+
+.diente-36, .contenedor-lineas-36, .linea-36, 
+.diente-45, .contenedor-lineas-45, .linea-45,
+.diente-52, .contenedor-lineas-52, .linea-52,
+.diente-61, .contenedor-lineas-61, .linea-61 {
+	width: 38px;
+}
+
+.diente-37, .contenedor-lineas-37, .linea-37,
+.diente-44, .contenedor-lineas-44, .linea-44,
+.diente-53, .contenedor-lineas-53, .linea-53,
+.diente-60, .contenedor-lineas-60, .linea-60 {
+	width: 37px;
+}
+
+.diente-38, .contenedor-lineas-38, .linea-38,
+.diente-43, .contenedor-lineas-43, .linea-43,
+.diente-54, .contenedor-lineas-54, .linea-54,
+.diente-59, .contenedor-lineas-59, .linea-59 {
+	width: 33px;
+}
+
+.diente-39, .contenedor-lineas-39, .linea-39,
+.diente-42, .contenedor-lineas-42, .linea-42,
+.diente-55, .contenedor-lineas-55, .linea-55,
+.diente-58, .contenedor-lineas-58, .linea-58 {
+	width: 33px;
+}
+
+.diente-40, .contenedor-lineas-40, .linea-40,
+.diente-41, .contenedor-lineas-41, .linea-41,
+.diente-56, .contenedor-lineas-56, .linea-56,
+.diente-57, .contenedor-lineas-57, .linea-57 {
+	width: 33px;
+}
+
+.contenedor-lineas,
+.contenedor-lineas-16,
+.contenedor-lineas-17,
+.contenedor-lineas-32 {
+	height: 60px;
+}
+
+.contenedor-lineas-2,
+.contenedor-lineas-15,
+.contenedor-lineas-18,
+.contenedor-lineas-31 {
+	height: 65px;
+}
+
+.contenedor-lineas-3,
+.contenedor-lineas-14,
+.contenedor-lineas-19,
+.contenedor-lineas-30 {
+	height: 70px;
+}
+
+.contenedor-lineas-4,
+.contenedor-lineas-13,
+.contenedor-lineas-20,
+.contenedor-lineas-29 {
+	height: 75px;
+}
+
+.contenedor-lineas-5,
+.contenedor-lineas-12,
+.contenedor-lineas-21,
+.contenedor-lineas-28 {
+	height: 75px;
+}
+
+.contenedor-lineas-6,
+.contenedor-lineas-11,
+.contenedor-lineas-22,
+.contenedor-lineas-27 {
+	height: 95px;
+}
+
+.contenedor-lineas-7,
+.contenedor-lineas-10,
+.contenedor-lineas-23,
+.contenedor-lineas-26 {
+	height: 80px;
+}
+
+.contenedor-lineas-8,
+.contenedor-lineas-9,
+.contenedor-lineas-24,
+.contenedor-lineas-25 {
+	height: 89px;
+}
+
+.contenedor-lineas-33, 
+.contenedor-lineas-48,
+.contenedor-lineas-49,
+.contenedor-lineas-64 {
+	height: 48px;
+}
+
+.contenedor-lineas-34, 
+.contenedor-lineas-47,
+.contenedor-lineas-50,
+.contenedor-lineas-63 {
+	height: 53px;
+}
+
+.contenedor-lineas-35, 
+.contenedor-lineas-46,
+.contenedor-lineas-51,
+.contenedor-lineas-62 {
+	height: 58px;
+}
+
+.contenedor-lineas-36, 
+.contenedor-lineas-45,
+.contenedor-lineas-52,
+.contenedor-lineas-61  {
+	height: 70px;
+}
+
+.contenedor-lineas-37, 
+.contenedor-lineas-44,
+.contenedor-lineas-53,
+.contenedor-lineas-60 {
+	height: 72px;
+}
+
+.contenedor-lineas-38, 
+.contenedor-lineas-43,
+.contenedor-lineas-54,
+.contenedor-lineas-59 {
+	height: 83px;
+}
+
+.contenedor-lineas-39, 
+.contenedor-lineas-42,
+.contenedor-lineas-55,
+.contenedor-lineas-58 {
+	height: 78px;
+}
+
+.contenedor-lineas-40, 
+.contenedor-lineas-41,
+.contenedor-lineas-56,
+.contenedor-lineas-57 {
+	height: 78px;
+}
+
+.linea {
+	background: none;
+	border-top: 2px solid transparent;
+	height: 1px;
+	padding-bottom: 2px;	
+}
+
+.linea-activa {
+	border-color: #cc3333;
+}
+
+.linea-seleccionada {
+	border-color: #cc3333;
+	cursor: pointer;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+.contenedor-corona {
+	border: 2px solid transparent;
+	height: 17px;
+}
+
+.contenedor-corona-1,
+.contenedor-corona-6,
+.contenedor-corona-11,
+.contenedor-corona-22,
+.contenedor-corona-27 {
+	height: 18px;
+}
+
+.contenedor-corona-17,
+.contenedor-corona-7,
+.contenedor-corona-10,
+.contenedor-corona-23,
+.contenedor-corona-26 {
+	height: 22px;
+}
+
+.contenedor-corona-8,
+.contenedor-corona-9,
+.contenedor-corona-24,
+.contenedor-corona-25 {
+	height: 24px;
+}
+
+.contenedor-corona-33, 
+.contenedor-corona-48,
+.contenedor-corona-49,
+.contenedor-corona-64 {
+	height: 23px;
+}
+
+.contenedor-corona-34, 
+.contenedor-corona-47,
+.contenedor-corona-50,
+.contenedor-corona-63 {
+	height: 23px;
+}
+
+.contenedor-corona-35, 
+.contenedor-corona-46,
+.contenedor-corona-51,
+.contenedor-corona-62 {
+	height: 23px;
+}
+
+.contenedor-corona-36, 
+.contenedor-corona-45,
+.contenedor-corona-52,
+.contenedor-corona-61 {
+	height: 23px;
+}
+
+.contenedor-corona-37, 
+.contenedor-corona-44,
+.contenedor-corona-53,
+.contenedor-corona-60 {
+	height: 23px;
+}
+
+.contenedor-corona-38, 
+.contenedor-corona-43,
+.contenedor-corona-54,
+.contenedor-corona-59 {
+	height: 23px;
+}
+
+.contenedor-corona-39, 
+.contenedor-corona-42,
+.contenedor-corona-55,
+.contenedor-corona-58 {
+	height: 25px;
+}
+
+.contenedor-corona-40, 
+.contenedor-corona-41,
+.contenedor-corona-56,
+.contenedor-corona-57 {
+	height: 27px;
+}
+
+.seleccionado-corona {
+	background: #cc3333;
+}
+
+.seleccionado-izq {
+	border-left-color: #0099cc;
+}
+
+.seleccionado-der {
+	border-right-color: #0099cc;
+}
+
+.corona {
+	background: none;
+	-webkit-border-radius: 13px;
+	-moz-border-radius: 13px;
+	border-radius: 13px;
+	height: 13px;
+	margin-top: 5px;
+	width: 13px;
+}
+
+.corona-izq{
+	/*float: left;*/
+        position:relative;
+}
+
+.corona-der{
+	/*float: right;*/
+        position:relative;
+	top:-18px;
+	right:-28px;
+}
+
+.seleccionado:hover {
+	background: #cc3333;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.frenillo-alto-arriba, .frenillo-alto-abajo {
+	background: transparent;
+	height: 8px;	
+	left: 407px;
+	position: relative;
+	width: 13px;
+}
+
+.frenillo-alto-arriba {
+	top: -793px;
+}
+
+.frenillo-alto-abajo {
+	top: -733px;
+}
+
+.frenillo-activo-arriba, .frenillo-seleccionado-arriba {
+	background-image: url("../img/frenillo-alto-arriba.png");
+}
+
+.frenillo-activo-abajo, .frenillo-seleccionado-abajo {
+	background-image: url("../img/frenillo-alto-abajo.png");
+}
+
+/** PADECIMIENTOS **/
+
+.ausente-1,.ausente-2,.ausente-3,.ausente-4,.ausente-5, .ausente-6,.ausente-7,.ausente-8,
+.ausente-9,.ausente-10,.ausente-11,.ausente-12,.ausente-13, .ausente-14,.ausente-15,.ausente-16,
+.ausente-17,.ausente-18,.ausente-19,.ausente-20,.ausente-21, .ausente-22,.ausente-23,.ausente-24,
+.ausente-25,.ausente-26,.ausente-27,.ausente-28,.ausente-29, .ausente-30,.ausente-31,.ausente-32,
+.ausente-33,.ausente-34,.ausente-35,.ausente-36,.ausente-37, .ausente-38,.ausente-39,.ausente-40,
+.ausente-41,.ausente-42,.ausente-43,.ausente-44,.ausente-45, .ausente-46,.ausente-47,.ausente-48,
+.ausente-49,.ausente-50,.ausente-51,.ausente-52,.ausente-53, .ausente-54,.ausente-55,.ausente-56,
+.ausente-57,.ausente-58,.ausente-59,.ausente-60,.ausente-61, .ausente-62,.ausente-63,.ausente-64 {
+	background-image: url("../img/dientes-periodontograma-ausentes.png");
+}
+
+.abceso-1,.abceso-2,.abceso-3,.abceso-4,.abceso-5, .abceso-6,.abceso-7,.abceso-8,
+.abceso-9,.abceso-10,.abceso-11,.abceso-12,.abceso-13, .abceso-14,.abceso-15,.abceso-16,
+.abceso-17,.abceso-18,.abceso-19,.abceso-20,.abceso-21, .abceso-22,.abceso-23,.abceso-24,
+.abceso-25,.abceso-26,.abceso-27,.abceso-28,.abceso-29, .abceso-30,.abceso-31,.abceso-32,
+.abceso-33,.abceso-34,.abceso-35,.abceso-36,.abceso-37, .abceso-38,.abceso-39,.abceso-40,
+.abceso-41,.abceso-42,.abceso-43,.abceso-44,.abceso-45, .abceso-46,.abceso-47,.abceso-48,
+.abceso-49,.abceso-50,.abceso-51,.abceso-52,.abceso-53, .abceso-54,.abceso-55,.abceso-56,
+.abceso-57,.abceso-58,.abceso-59,.abceso-60,.abceso-61, .abceso-62,.abceso-63,.abceso-64 {
+	background-image: url("../img/dientes-periodontograma-abcesos.png");
+}
+
+.bolsa-parodontal-1, .bolsa-parodontal-2, .bolsa-parodontal-3, .bolsa-parodontal-4,
+.bolsa-parodontal-5, .bolsa-parodontal-6, .bolsa-parodontal-7, .bolsa-parodontal-8,
+.bolsa-parodontal-9, .bolsa-parodontal-10, .bolsa-parodontal-11, .bolsa-parodontal-12,
+.bolsa-parodontal-13, .bolsa-parodontal-14, .bolsa-parodontal-15, .bolsa-parodontal-16,
+.bolsa-parodontal-17, .bolsa-parodontal-18, .bolsa-parodontal-19, .bolsa-parodontal-20,
+.bolsa-parodontal-21, .bolsa-parodontal-22, .bolsa-parodontal-23, .bolsa-parodontal-24,
+.bolsa-parodontal-25, .bolsa-parodontal-26, .bolsa-parodontal-27, .bolsa-parodontal-28,
+.bolsa-parodontal-29, .bolsa-parodontal-30, .bolsa-parodontal-31, .bolsa-parodontal-32,
+.bolsa-parodontal-33, .bolsa-parodontal-34, .bolsa-parodontal-35, .bolsa-parodontal-36,
+.bolsa-parodontal-37, .bolsa-parodontal-38, .bolsa-parodontal-39, .bolsa-parodontal-40,
+.bolsa-parodontal-41, .bolsa-parodontal-42, .bolsa-parodontal-43, .bolsa-parodontal-44,
+.bolsa-parodontal-45, .bolsa-parodontal-46, .bolsa-parodontal-47, .bolsa-parodontal-48,
+.bolsa-parodontal-49, .bolsa-parodontal-50, .bolsa-parodontal-51, .bolsa-parodontal-52,
+.bolsa-parodontal-53, .bolsa-parodontal-54, .bolsa-parodontal-55, .bolsa-parodontal-56,
+.bolsa-parodontal-57, .bolsa-parodontal-58, .bolsa-parodontal-59, .bolsa-parodontal-60,
+.bolsa-parodontal-61, .bolsa-parodontal-62, .bolsa-parodontal-63, .bolsa-parodontal-64 {
+	background-image: url("../img/dientes-periodontograma-bolsas-parodontales-3.png");
+}
+
+.ausente-1, .ausente-17, 
+.abceso-1, .abceso-17,
+.bolsa-parodontal-1, .bolsa-parodontal-17 {	
+	background-position: -14px -45px ;
+}
+
+.ausente-2, .ausente-18, 
+.abceso-2, .abceso-18,
+.bolsa-parodontal-2, .bolsa-parodontal-18 {
+	background-position: -69px -40px ;
+}
+
+.ausente-3, .ausente-19, 
+.abceso-3, .abceso-19,
+.bolsa-parodontal-3, .bolsa-parodontal-19 {
+	background-position: -124px -35px ;
+}
+
+.ausente-4, .ausente-20, 
+.abceso-4, .abceso-20,
+.bolsa-parodontal-4, .bolsa-parodontal-20 {
+	background-position: -186px -30px ;
+}
+
+.ausente-5, .ausente-21, 
+.abceso-5, .abceso-21,
+.bolsa-parodontal-5, .bolsa-parodontal-21 {
+	background-position: -230px -30px ;
+}
+
+.ausente-6, .ausente-22, 
+.abceso-6, .abceso-22,
+.bolsa-parodontal-6, .bolsa-parodontal-22 {
+	background-position: -274px -10px ;
+}
+
+.ausente-7, .ausente-23, 
+.abceso-7, .abceso-23,
+.bolsa-parodontal-7, .bolsa-parodontal-23 {
+	background-position: -320px -25px ;
+}
+
+.ausente-8, .ausente-24, 
+.abceso-8, .abceso-24,
+.bolsa-parodontal-8, .bolsa-parodontal-24 {
+	background-position: -361px -15px ;
+}
+
+.ausente-9, .ausente-25, 
+.abceso-9, .abceso-25,
+.bolsa-parodontal-9, .bolsa-parodontal-25 {
+	background-position: -419px -15px ;
+}
+
+.ausente-10, .ausente-26, 
+.abceso-10, .abceso-26,
+.bolsa-parodontal-10, .bolsa-parodontal-26 {
+	background-position: -470px -25px ;
+}
+
+.ausente-11, .ausente-27, 
+.abceso-11, .abceso-27,
+.bolsa-parodontal-11, .bolsa-parodontal-27 {
+	background-position: -514px -10px ;
+}
+
+.ausente-12, .ausente-28, 
+.abceso-12, .abceso-28,
+.bolsa-parodontal-12, .bolsa-parodontal-28 {
+	background-position: -559px -30px ;
+}
+
+.ausente-13, .ausente-29, 
+.abceso-13, .abceso-29,
+.bolsa-parodontal-13, .bolsa-parodontal-29 {
+	background-position: -604px -31px ;
+}
+
+.ausente-14, .ausente-30, 
+.abceso-14, .abceso-30,
+.bolsa-parodontal-14, .bolsa-parodontal-30 {
+	background-position: -648px -35px ;
+}
+
+.ausente-15, .ausente-31, 
+.abceso-15, .abceso-31,
+.bolsa-parodontal-15, .bolsa-parodontal-31 {
+	background-position: -705px -40px ;
+}
+
+.ausente-16, .ausente-32, 
+.abceso-16, .abceso-32,
+.bolsa-parodontal-16, .bolsa-parodontal-32 {
+	background-position: -763px -45px ;
+}
+
+.ausente-33, .ausente-49 {
+	background-position: -51px -320px ;
+}
+
+.abceso-33, .abceso-49, .bolsa-parodontal-33, .bolsa-parodontal-49 {
+	background-position: -51px -486px ;
+}
+
+.ausente-34, .ausente-50 {
+	background-position: -101px -320px ;
+}
+
+.abceso-34, .abceso-50, .bolsa-parodontal-34, .bolsa-parodontal-50 {
+	background-position: -101px -486px ;
+}
+
+.ausente-35,.ausente-51 {
+	background-position: -155px -320px ;
+}
+
+.abceso-35,.abceso-51,.bolsa-parodontal-35,.bolsa-parodontal-51 {
+	background-position: -155px -486px ;
+}
+
+.ausente-36, .ausente-52 {
+	background-position: -213px -320px ;
+}
+
+.abceso-36, .abceso-52, .bolsa-parodontal-36, .bolsa-parodontal-52 {
+	background-position: -213px -486px ;
+}
+
+.ausente-37, .ausente-53 {
+	background-position: -258px -320px ;
+}
+
+.abceso-37, .abceso-53, .bolsa-parodontal-37, .bolsa-parodontal-53 {
+	background-position: -258px -486px ;
+}
+
+.ausente-38, .ausente-54 {
+	background-position: -300px -320px ;
+}
+
+.abceso-38, .abceso-54, .bolsa-parodontal-38, .bolsa-parodontal-54 {
+	background-position: -300px -485px ;
+}
+
+.ausente-39, .ausente-55 {
+	background-position: -337px -317px ;
+}
+
+.abceso-39, .abceso-55, .bolsa-parodontal-39, .bolsa-parodontal-55 {
+	background-position: -337px -485px ;
+}
+
+.ausente-40, .ausente-56 {
+	background-position: -375px -315px ;
+}
+
+.abceso-40, .abceso-56, .bolsa-parodontal-40, .bolsa-parodontal-56 {
+	background-position: -375px -485px ;
+}
+
+.ausente-41, .ausente-57 {
+	background-position: -420px -315px ;
+}
+
+.abceso-41, .abceso-57, .bolsa-parodontal-41, .bolsa-parodontal-57 {
+	background-position: -420px -485px ;
+}
+
+.ausente-42, .ausente-58 {
+	background-position: -458px -317px ;
+}
+
+.abceso-42, .abceso-58, .bolsa-parodontal-42, .bolsa-parodontal-58 {
+	background-position: -458px -485px ;
+}
+
+.ausente-43, .ausente-59 {
+	background-position: -495px -319px ;
+}
+
+.abceso-43, .abceso-59, .bolsa-parodontal-43, .bolsa-parodontal-59 {
+	background-position: -495px -485px ;
+}
+
+.ausente-44, .ausente-60 {
+	background-position: -532px -320px ;
+}
+
+.abceso-44, .abceso-60, .bolsa-parodontal-44, .bolsa-parodontal-60 {
+	background-position: -532px -486px ;
+}
+
+.ausente-45, .ausente-61 {
+	background-position: -576px -320px ;
+}
+
+.abceso-45, .abceso-61, .bolsa-parodontal-45, .bolsa-parodontal-61 {
+	background-position: -576px -486px ;
+}
+
+.ausente-46, .ausente-62 {
+	background-position: -620px -320px ;
+}
+
+.abceso-46, .abceso-62, .bolsa-parodontal-46, .bolsa-parodontal-62 {
+	background-position: -620px -486px ;
+}
+
+.ausente-47, .ausente-63 {
+	background-position: -679px -320px ;
+}
+
+.abceso-47, .abceso-63, .bolsa-parodontal-47, .bolsa-parodontal-63 {
+	background-position: -679px -486px ;
+}
+
+.ausente-48, .ausente-64 {
+	background-position: -730px -320px ;
+}
+
+.abceso-48, .abceso-64, .bolsa-parodontal-48, .bolsa-parodontal-64 {
+	background-position: -730px -486px ;
+}
+
+.reconstruccion-1, .reconstruccion-2, .reconstruccion-3, .reconstruccion-4,
+.reconstruccion-5, .reconstruccion-6, .reconstruccion-7, .reconstruccion-8,
+.reconstruccion-9, .reconstruccion-10, .reconstruccion-11, .reconstruccion-12,
+.reconstruccion-13, .reconstruccion-14, .reconstruccion-15, .reconstruccion-16, 
+.reconstruccion-17, .reconstruccion-18, .reconstruccion-19, .reconstruccion-20, 
+.reconstruccion-21, .reconstruccion-22, .reconstruccion-23, .reconstruccion-24, 
+.reconstruccion-25, .reconstruccion-26, .reconstruccion-27, .reconstruccion-28, 
+.reconstruccion-29, .reconstruccion-30, .reconstruccion-31, .reconstruccion-32,
+.reconstruccion-33, .reconstruccion-34, .reconstruccion-35, .reconstruccion-36,
+.reconstruccion-37, .reconstruccion-38, .reconstruccion-39, .reconstruccion-40,
+.reconstruccion-41, .reconstruccion-42, .reconstruccion-43, .reconstruccion-44,
+.reconstruccion-45, .reconstruccion-46, .reconstruccion-47, .reconstruccion-48,
+.reconstruccion-49, .reconstruccion-50, .reconstruccion-51, .reconstruccion-52,
+.reconstruccion-53, .reconstruccion-54, .reconstruccion-55, .reconstruccion-56,
+.reconstruccion-57, .reconstruccion-58, .reconstruccion-59, .reconstruccion-60,
+.reconstruccion-61, .reconstruccion-62, .reconstruccion-63, .reconstruccion-64 {
+	background-image: url("../img/dientes-periodontograma-reconstruccion-3.png");
+}
+
+.protesis-fija-1, .protesis-fija-2, .protesis-fija-3, .protesis-fija-4, 
+.protesis-fija-5, .protesis-fija-6, .protesis-fija-7, .protesis-fija-8, 
+.protesis-fija-9, .protesis-fija-10, .protesis-fija-11, .protesis-fija-12,
+.protesis-fija-13, .protesis-fija-14, .protesis-fija-15, .protesis-fija-16,
+.protesis-fija-17, .protesis-fija-18, .protesis-fija-19, .protesis-fija-20,
+.protesis-fija-21, .protesis-fija-22, .protesis-fija-23, .protesis-fija-24, 
+.protesis-fija-25, .protesis-fija-26, .protesis-fija-27, .protesis-fija-28,
+.protesis-fija-29, .protesis-fija-30, .protesis-fija-31, .protesis-fija-32,
+.protesis-fija-33, .protesis-fija-34, .protesis-fija-35, .protesis-fija-36, 
+.protesis-fija-37, .protesis-fija-38, .protesis-fija-39, .protesis-fija-40, 
+.protesis-fija-41, .protesis-fija-42, .protesis-fija-43, .protesis-fija-44,
+.protesis-fija-45, .protesis-fija-46, .protesis-fija-47, .protesis-fija-48,
+.protesis-fija-49, .protesis-fija-50, .protesis-fija-51, .protesis-fija-52,
+.protesis-fija-53, .protesis-fija-54, .protesis-fija-55, .protesis-fija-56, 
+.protesis-fija-57, .protesis-fija-58, .protesis-fija-59, .protesis-fija-60,
+.protesis-fija-61, .protesis-fija-62, .protesis-fija-63, .protesis-fija-64 {
+	background-image: url("../img/dientes-periodontograma-protesis-fija-3.png");	
+}
+
+.protesis-removible-1, .protesis-removible-2, .protesis-removible-3, .protesis-removible-4, 
+.protesis-removible-5, .protesis-removible-6, .protesis-removible-7, .protesis-removible-8, 
+.protesis-removible-9, .protesis-removible-10, .protesis-removible-11, .protesis-removible-12,
+.protesis-removible-13, .protesis-removible-14, .protesis-removible-15, .protesis-removible-16,
+.protesis-removible-17, .protesis-removible-18, .protesis-removible-19, .protesis-removible-20,
+.protesis-removible-21, .protesis-removible-22, .protesis-removible-23, .protesis-removible-24, 
+.protesis-removible-25, .protesis-removible-26, .protesis-removible-27, .protesis-removible-28,
+.protesis-removible-29, .protesis-removible-30, .protesis-removible-31, .protesis-removible-32,
+.protesis-removible-33, .protesis-removible-34, .protesis-removible-35, .protesis-removible-36, 
+.protesis-removible-37, .protesis-removible-38, .protesis-removible-39, .protesis-removible-40, 
+.protesis-removible-41, .protesis-removible-42, .protesis-removible-43, .protesis-removible-44,
+.protesis-removible-45, .protesis-removible-46, .protesis-removible-47, .protesis-removible-48,
+.protesis-removible-49, .protesis-removible-50, .protesis-removible-51, .protesis-removible-52,
+.protesis-removible-53, .protesis-removible-54, .protesis-removible-55, .protesis-removible-56, 
+.protesis-removible-57, .protesis-removible-58, .protesis-removible-59, .protesis-removible-60,
+.protesis-removible-61, .protesis-removible-62, .protesis-removible-63, .protesis-removible-64 {
+	background-image: url("../img/dientes-periodontograma-protesis-removible-.png");	
+}
+
+.obt-mal-ajustada-1, .obt-mal-ajustada-2, .obt-mal-ajustada-3, .obt-mal-ajustada-4, 
+.obt-mal-ajustada-5, .obt-mal-ajustada-6, .obt-mal-ajustada-7, .obt-mal-ajustada-8, 
+.obt-mal-ajustada-9, .obt-mal-ajustada-10, .obt-mal-ajustada-11, .obt-mal-ajustada-12,
+.obt-mal-ajustada-13, .obt-mal-ajustada-14, .obt-mal-ajustada-15, .obt-mal-ajustada-16,
+.obt-mal-ajustada-17, .obt-mal-ajustada-18, .obt-mal-ajustada-19, .obt-mal-ajustada-20,
+.obt-mal-ajustada-21, .obt-mal-ajustada-22, .obt-mal-ajustada-23, .obt-mal-ajustada-24, 
+.obt-mal-ajustada-25, .obt-mal-ajustada-26, .obt-mal-ajustada-27, .obt-mal-ajustada-28,
+.obt-mal-ajustada-29, .obt-mal-ajustada-30, .obt-mal-ajustada-31, .obt-mal-ajustada-32,
+.obt-mal-ajustada-33, .obt-mal-ajustada-34, .obt-mal-ajustada-35, .obt-mal-ajustada-36, 
+.obt-mal-ajustada-37, .obt-mal-ajustada-38, .obt-mal-ajustada-39, .obt-mal-ajustada-40, 
+.obt-mal-ajustada-41, .obt-mal-ajustada-42, .obt-mal-ajustada-43, .obt-mal-ajustada-44,
+.obt-mal-ajustada-45, .obt-mal-ajustada-46, .obt-mal-ajustada-47, .obt-mal-ajustada-48,
+.obt-mal-ajustada-49, .obt-mal-ajustada-50, .obt-mal-ajustada-51, .obt-mal-ajustada-52,
+.obt-mal-ajustada-53, .obt-mal-ajustada-54, .obt-mal-ajustada-55, .obt-mal-ajustada-56, 
+.obt-mal-ajustada-57, .obt-mal-ajustada-58, .obt-mal-ajustada-59, .obt-mal-ajustada-60,
+.obt-mal-ajustada-61, .obt-mal-ajustada-62, .obt-mal-ajustada-63, .obt-mal-ajustada-64 {
+	background-image: url("../img/dientes-periodontograma-obt-mal-ajustada-4.png");	
+}
+
+.faceta-desgaste-1, .faceta-desgaste-2, .faceta-desgaste-3, .faceta-desgaste-4, 
+.faceta-desgaste-5, .faceta-desgaste-6, .faceta-desgaste-7, .faceta-desgaste-8, 
+.faceta-desgaste-9, .faceta-desgaste-10, .faceta-desgaste-11, .faceta-desgaste-12,
+.faceta-desgaste-13, .faceta-desgaste-14, .faceta-desgaste-15, .faceta-desgaste-16,
+.faceta-desgaste-17, .faceta-desgaste-18, .faceta-desgaste-19, .faceta-desgaste-20,
+.faceta-desgaste-21, .faceta-desgaste-22, .faceta-desgaste-23, .faceta-desgaste-24, 
+.faceta-desgaste-25, .faceta-desgaste-26, .faceta-desgaste-27, .faceta-desgaste-28,
+.faceta-desgaste-29, .faceta-desgaste-30, .faceta-desgaste-31, .faceta-desgaste-32,
+.faceta-desgaste-33, .faceta-desgaste-34, .faceta-desgaste-35, .faceta-desgaste-36, 
+.faceta-desgaste-37, .faceta-desgaste-38, .faceta-desgaste-39, .faceta-desgaste-40, 
+.faceta-desgaste-41, .faceta-desgaste-42, .faceta-desgaste-43, .faceta-desgaste-44,
+.faceta-desgaste-45, .faceta-desgaste-46, .faceta-desgaste-47, .faceta-desgaste-48,
+.faceta-desgaste-49, .faceta-desgaste-50, .faceta-desgaste-51, .faceta-desgaste-52,
+.faceta-desgaste-53, .faceta-desgaste-54, .faceta-desgaste-55, .faceta-desgaste-56, 
+.faceta-desgaste-57, .faceta-desgaste-58, .faceta-desgaste-59, .faceta-desgaste-60,
+.faceta-desgaste-61, .faceta-desgaste-62, .faceta-desgaste-63, .faceta-desgaste-64 {
+	background-image: url("../img/dientes-periodontograma-faceta-desgaste-2.png");
+	background-position: -16px -108px ;
+}
+
+.reconstruccion-1, .protesis-fija-1, .protesis-removible-1,
+.obt-mal-ajustada-1, .faceta-desgaste-1 {	
+	background-position: -16px -107px ;
+}
+
+.reconstruccion-2, .protesis-fija-2, .protesis-removible-2, 
+.obt-mal-ajustada-2, .faceta-desgaste-2 {	
+	background-position: -71px -107px ;
+}
+
+.reconstruccion-3, .protesis-fija-3, .protesis-removible-3,
+.obt-mal-ajustada-3, .faceta-desgaste-3 {	
+	background-position: -126px -107px ;
+}
+
+.reconstruccion-4, .protesis-fija-4, .protesis-removible-4, 
+.obt-mal-ajustada-4, .faceta-desgaste-4 {	
+	background-position: -188px -107px ;
+}
+
+.reconstruccion-5, .protesis-fija-5, .protesis-removible-5, 
+.obt-mal-ajustada-5, .faceta-desgaste-5 {	
+	background-position: -232px -107px ;
+}
+
+.reconstruccion-6, .protesis-fija-6, .protesis-removible-6, 
+.obt-mal-ajustada-6, .faceta-desgaste-6 {	
+	background-position: -276px -107px ;
+}
+
+.reconstruccion-7, .protesis-fija-7, .protesis-removible-7, 
+.obt-mal-ajustada-7, .faceta-desgaste-7 {	
+	background-position: -322px -107px ;
+}
+
+.reconstruccion-8, .protesis-fija-8, .protesis-removible-8,
+.obt-mal-ajustada-8, .faceta-desgaste-8 {	
+	background-position: -363px -106px ;
+}
+
+.reconstruccion-9, .protesis-fija-9, .protesis-removible-9,
+.obt-mal-ajustada-9, .faceta-desgaste-9 {
+	background-position: -421px -106px ;
+}
+
+.reconstruccion-10, .protesis-fija-10, .protesis-removible-10, 
+.obt-mal-ajustada-10, .faceta-desgaste-10 {	
+	background-position: -472px -107px ;
+}
+
+.reconstruccion-11, .protesis-fija-11, .protesis-removible-11, 
+.obt-mal-ajustada-11, .faceta-desgaste-11 {	
+	background-position: -516px -107px ;
+}
+
+.reconstruccion-12, .protesis-fija-12, .protesis-removible-12, 
+.obt-mal-ajustada-12, .faceta-desgaste-12 {	
+	background-position: -561px -107px ;
+}
+
+.reconstruccion-13, .protesis-fija-13, .protesis-removible-13, 
+.obt-mal-ajustada-13, .faceta-desgaste-13 {
+	background-position: -606px -107px ;
+}
+
+.reconstruccion-14, .protesis-fija-14, .protesis-removible-14, 
+.obt-mal-ajustada-14, .faceta-desgaste-14 {	
+	background-position: -650px -107px ;
+}
+
+.reconstruccion-15, .protesis-fija-15, .protesis-removible-15, 
+.obt-mal-ajustada-15, .faceta-desgaste-15 {	
+	background-position: -707px -107px ;
+}
+
+.reconstruccion-16, .protesis-fija-16, .protesis-removible-16, 
+.obt-mal-ajustada-16, .faceta-desgaste-16 {	
+	background-position: -765px -107px ;
+}
+
+.reconstruccion-17, .protesis-fija-17, .protesis-removible-17, 
+.obt-mal-ajustada-17, .faceta-desgaste-17 {
+	background-position: -16px -248px ;
+}
+
+.reconstruccion-18, .protesis-fija-18, .protesis-removible-18,
+.obt-mal-ajustada-18, .faceta-desgaste-18 {
+	background-position: -71px -248px ;
+}
+
+.reconstruccion-19, .protesis-fija-19, .protesis-removible-19,
+ .obt-mal-ajustada-19, .faceta-desgaste-19 {
+	background-position: -126px -248px ;
+}
+
+.reconstruccion-20, .protesis-fija-20, .protesis-removible-20,
+.obt-mal-ajustada-20, .faceta-desgaste-20 {
+	background-position: -188px -248px ;
+}
+
+.reconstruccion-21, .protesis-fija-21, .protesis-removible-21,
+.obt-mal-ajustada-21, .faceta-desgaste-21 {
+	background-position: -232px -248px ;
+}
+
+.reconstruccion-22, .protesis-fija-22, .protesis-removible-22, 
+.obt-mal-ajustada-22, .faceta-desgaste-22 {
+	background-position: -276px -248px ;
+}
+
+.reconstruccion-23, .protesis-fija-23, .protesis-removible-23, 
+.obt-mal-ajustada-23, .faceta-desgaste-23 {
+	background-position: -322px -248px ;
+}
+
+.reconstruccion-24, .protesis-fija-24, .protesis-removible-24, 
+.obt-mal-ajustada-24, .faceta-desgaste-24 {	
+	background-position: -363px -247px ;
+}
+
+.reconstruccion-25, .protesis-fija-25, .protesis-removible-25, 
+.obt-mal-ajustada-25, .faceta-desgaste-25 {	
+	background-position: -421px -247px ;
+}
+
+.reconstruccion-26, .protesis-fija-26, .protesis-removible-26, 
+.obt-mal-ajustada-26, .faceta-desgaste-26 {	
+	background-position: -472px -248px ;
+}
+
+.reconstruccion-27, .protesis-fija-27, .protesis-removible-27, 
+.obt-mal-ajustada-27, .faceta-desgaste-27 {	
+	background-position: -516px -248px ;
+}
+
+.reconstruccion-28, .protesis-fija-28, .protesis-removible-28, 
+.obt-mal-ajustada-28, .faceta-desgaste-28 {	
+	background-position: -561px -248px ;
+}
+
+.reconstruccion-29, .protesis-fija-29, .protesis-removible-29, 
+.obt-mal-ajustada-29, .faceta-desgaste-29 {	
+	background-position: -606px -249px ;
+}
+
+.reconstruccion-30, .protesis-fija-30, .protesis-removible-30, 
+.obt-mal-ajustada-30, .faceta-desgaste-30 {	
+	background-position: -650px -248px ;
+}
+
+.reconstruccion-31, .protesis-fija-31, .protesis-removible-31, 
+.obt-mal-ajustada-31, .faceta-desgaste-31 {	
+	background-position: -707px -248px ;
+}
+
+.reconstruccion-32, .protesis-fija-32, .protesis-removible-32, 
+.obt-mal-ajustada-32, .faceta-desgaste-32 {	
+	background-position: -765px -248px ;
+}
+
+.reconstruccion-33, .protesis-fija-33, .protesis-removible-33, 
+.obt-mal-ajustada-33, .faceta-desgaste-33 {	
+	background-position: -53px -322px;
+}
+
+.reconstruccion-34, .protesis-fija-34, .protesis-removible-34, 
+.obt-mal-ajustada-34, .faceta-desgaste-34 {	
+	background-position: -103px -322px;
+}
+
+.reconstruccion-35, .protesis-fija-35, .protesis-removible-35, 
+.obt-mal-ajustada-35, .faceta-desgaste-35 {	
+	background-position: -157px -322px;
+}
+
+.reconstruccion-36, .protesis-fija-36, .protesis-removible-36, 
+.obt-mal-ajustada-36, .faceta-desgaste-36 {	
+	background-position: -215px -322px;
+}
+
+.reconstruccion-37, .protesis-fija-37, .protesis-removible-37, 
+.obt-mal-ajustada-37, .faceta-desgaste-37 {	
+	background-position: -260px -322px;
+}
+
+.reconstruccion-38, .protesis-fija-38, .protesis-removible-38, 
+.obt-mal-ajustada-38, .faceta-desgaste-38 {	
+	background-position: -302px -321px;
+}
+
+.reconstruccion-39, .protesis-fija-39, .protesis-removible-39, 
+.obt-mal-ajustada-39, .faceta-desgaste-39 {	
+	background-position: -339px -319px;
+}
+
+.reconstruccion-40, .protesis-fija-40, .protesis-removible-40, 
+.obt-mal-ajustada-40, .faceta-desgaste-40 {	
+	background-position: -377px -317px;
+}
+
+.reconstruccion-41, .protesis-fija-41, .protesis-removible-41, 
+.obt-mal-ajustada-41, .faceta-desgaste-41 {	
+	background-position: -422px -317px;
+}
+
+.reconstruccion-42, .protesis-fija-42, .protesis-removible-42, 
+.obt-mal-ajustada-42, .faceta-desgaste-42 {	
+	background-position: -460px -319px;
+}
+
+.reconstruccion-43, .protesis-fija-43, .protesis-removible-43, 
+.obt-mal-ajustada-43, .faceta-desgaste-43 {	
+	background-position: -497px -321px;
+}
+
+.reconstruccion-44, .protesis-fija-44, .protesis-removible-44, 
+.obt-mal-ajustada-44, .faceta-desgaste-44 {	
+	background-position: -534px -322px;
+}
+
+.reconstruccion-45, .protesis-fija-45, .protesis-removible-45, 
+.obt-mal-ajustada-45, .faceta-desgaste-45 {	
+	background-position: -578px -322px;
+}
+
+.reconstruccion-46, .protesis-fija-46, .protesis-removible-46, 
+.obt-mal-ajustada-46, .faceta-desgaste-46 {	
+	background-position: -622px -322px;
+}
+
+.reconstruccion-47, .protesis-fija-47, .protesis-removible-47, 
+.obt-mal-ajustada-47, .faceta-desgaste-47 {	
+	background-position: -681px -322px;
+}
+
+.reconstruccion-48, .protesis-fija-48, .protesis-removible-48, 
+.obt-mal-ajustada-48, .faceta-desgaste-48 {	
+	background-position: -732px -322px;
+}
+
+.reconstruccion-49, .protesis-fija-49, .protesis-removible-49, 
+.obt-mal-ajustada-49, .faceta-desgaste-49 {	
+	background-position: -53px -461px;
+}
+
+.reconstruccion-50, .protesis-fija-50, .protesis-removible-50, 
+.obt-mal-ajustada-50, .faceta-desgaste-50 {	
+	background-position: -103px -461px;
+}
+
+.reconstruccion-51, .protesis-fija-51, .protesis-removible-51, 
+.obt-mal-ajustada-51, .faceta-desgaste-51 {	
+	background-position: -157px -461px;
+}
+
+.reconstruccion-52, .protesis-fija-52, .protesis-removible-52, 
+.obt-mal-ajustada-52, .faceta-desgaste-52 {	
+	background-position: -215px -461px;
+}
+
+.reconstruccion-53, .protesis-fija-53, .protesis-removible-53, 
+.obt-mal-ajustada-53, .faceta-desgaste-53 {	
+	background-position: -260px -461px;
+}
+
+.reconstruccion-54, .protesis-fija-54, .protesis-removible-54, 
+.obt-mal-ajustada-54, .faceta-desgaste-54 {	
+	background-position: -302px -460px;
+}
+
+.reconstruccion-55, .protesis-fija-55, .protesis-removible-55, 
+.obt-mal-ajustada-55, .faceta-desgaste-55 {	
+	background-position: -339px -458px;
+}
+
+.reconstruccion-56, .protesis-fija-56, .protesis-removible-56, 
+.obt-mal-ajustada-56, .faceta-desgaste-56 {	
+	background-position: -377px -456px;
+}
+
+.reconstruccion-57, .protesis-fija-57, .protesis-removible-57, 
+.obt-mal-ajustada-57, .faceta-desgaste-57 {	
+	background-position: -422px -456px;
+}
+
+.reconstruccion-58, .protesis-fija-58, .protesis-removible-58, 
+.obt-mal-ajustada-58, .faceta-desgaste-58 {	
+	background-position: -460px -458px;
+}
+
+.reconstruccion-59, .protesis-fija-59, .protesis-removible-59, 
+.obt-mal-ajustada-59, .faceta-desgaste-59 {	
+	background-position: -497px -460px;
+}
+
+.reconstruccion-60, .protesis-fija-60, .protesis-removible-60, 
+.obt-mal-ajustada-60, .faceta-desgaste-60 {	
+	background-position: -534px -461px;
+}
+
+.reconstruccion-61, .protesis-fija-61, .protesis-removible-61, 
+.obt-mal-ajustada-61, .faceta-desgaste-61 {	
+	background-position: -578px -461px;
+}
+
+.reconstruccion-62, .protesis-fija-62, .protesis-removible-62, 
+.obt-mal-ajustada-62, .faceta-desgaste-62 {	
+	background-position: -622px -461px;
+}
+
+.reconstruccion-63, .protesis-fija-63, .protesis-removible-63, 
+.obt-mal-ajustada-63, .faceta-desgaste-63 {	
+	background-position: -681px -461px;
+}
+
+.reconstruccion-64, .protesis-fija-64, .protesis-removible-64, 
+.obt-mal-ajustada-64, .faceta-desgaste-64 {	
+	background-position: -732px -461px;
+}

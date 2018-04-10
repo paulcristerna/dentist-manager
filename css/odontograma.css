@@ -1,0 +1,44 @@
+.tabla-centrada tr td {
+	text-align: center;
+}
+
+.contenedor {
+	height: 49px;
+	margin: 0 auto;
+	width: 49px;
+}
+
+.seleccionado-arriba, .seleccionado-izquierda, .seleccionado-centro, .seleccionado-derecha, .seleccionado-abajo {
+    background: #fff;
+	border: 1px solid #ccc;
+	cursor: pointer;
+	float: left;
+	height: 15px;
+	margin: 0;
+	width: 15px;
+}
+
+.seleccionado-arriba {
+	margin: 0 15px 0 16px;
+    border-bottom: none;
+}
+
+.seleccionado-centro {
+	border-left: none;
+	border-right: none;
+}
+
+.seleccionado-abajo {
+	border-top: none;
+	margin-left: 16px;
+}
+
+.seleccionado {
+	border-color: #0088cc;
+	background-color: #0088cc;
+}
+
+.boton {
+	margin: 3px 1px 3px 1px;
+	/*width: 250px;*/
+}

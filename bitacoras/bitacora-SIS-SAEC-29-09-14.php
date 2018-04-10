@@ -1,0 +1,12 @@
+29-09-14 09:06:52: Pedro Romero Malvaez inicio sesion en el sistema.
+29-09-14 09:11:30: Pedro Romero Malvaez cerro sesion en el sistema.
+29-09-14 09:15:15: Pedro Romero Malvaez inicio sesion en el sistema.
+29-09-14 09:15:20: Pedro Romero Malvaez cerro sesion en el sistema.
+29-09-14 09:15:23: Juan Lopez Perez inicio sesion en el sistema.
+29-09-14 09:15:33: Juan Lopez Perez cerro sesion en el sistema.
+29-09-14 09:15:36: Pedro Romero Malvaez inicio sesion en el sistema.
+29-09-14 10:15:16: Pedro Romero Malvaez cerro sesion en el sistema.
+29-09-14 10:15:20: Pedro Romero Malvaez inicio sesion en el sistema.
+29-09-14 11:39:13: Pedro Romero Malvaez cerro sesion en el sistema.
+29-09-14 11:53:54: Pedro Romero Malvaez inicio sesion en el sistema.
+29-09-14 12:39:41: Pedro Romero Malvaez inicio sesion en el sistema.

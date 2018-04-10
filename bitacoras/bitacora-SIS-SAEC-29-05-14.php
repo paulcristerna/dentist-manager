@@ -1,0 +1,13 @@
+<?php "29-05-14 09:51:48: Pedro Romero Malvaez ingreso al sistema. <br />"; ?>
+<?php "29-05-14 09:55:24: Pedro Romero Malvaez agrego una administracion. <br />"; ?>
+<?php "29-05-14 09:55:37: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "29-05-14 09:55:50: Pedro Romero Malvaez actualizo un departamento. <br />"; ?>
+<?php "29-05-14 09:57:09: Pedro Romero Malvaez agrego un proveedor. <br />"; ?>
+<?php "29-05-14 10:27:35: Pedro Romero Malvaez ingreso al sistema. <br />"; ?>
+<?php "29-05-14 12:31:50: Pedro Romero Malvaez salio del sistema. <br />"; ?>
+<?php "29-05-14 12:34:40: Pedro Romero Malvaez ingreso al sistema. <br />"; ?>
+<?php "29-05-14 12:48:37: Pedro Romero Malvaez agrego un paciente. <br />"; ?>
+<?php "29-05-14 12:53:05: Pedro Romero Malvaez actualizo un paciente. <br />"; ?>
+<?php "29-05-14 12:54:01: Pedro Romero Malvaez actualizo un paciente. <br />"; ?>
+<?php "29-05-14 12:55:07: Pedro Romero Malvaez agrego un paciente. <br />"; ?>
+<?php "29-05-14 12:55:15: Pedro Romero Malvaez actualizo un paciente. <br />"; ?>

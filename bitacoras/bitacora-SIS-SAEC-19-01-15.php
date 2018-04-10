@@ -1,0 +1,13 @@
+19-01-15 04:52:17: Pedro Romero Malvaez inicio sesion en el sistema.
+19-01-15 05:17:42: Pedro Romero Malvaez entrego una salida de material.
+19-01-15 05:17:46: Pedro Romero Malvaez entrego una salida de material.
+19-01-15 05:17:50: Pedro Romero Malvaez entrego una salida de material.
+19-01-15 05:18:18: Pedro Romero Malvaez entrego una salida de material.
+19-01-15 05:24:48: Pedro Romero Malvaez cerro sesion en el sistema.
+19-01-15 05:24:54: Manuel Manjarrez Guerrero inicio sesion en el sistema.
+19-01-15 05:27:06: Manuel Manjarrez Guerrero cerro sesion en el sistema.
+19-01-15 05:27:09: Pedro Romero Malvaez inicio sesion en el sistema.
+19-01-15 05:28:05: Pedro Romero Malvaez cerro sesion en el sistema.
+19-01-15 05:28:09: Manuel Manjarrez Guerrero inicio sesion en el sistema.
+19-01-15 05:29:46: Manuel Manjarrez Guerrero cerro sesion en el sistema.
+19-01-15 05:29:50: Pedro Romero Malvaez inicio sesion en el sistema.
